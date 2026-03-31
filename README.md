@@ -20,6 +20,7 @@ I build AI-powered products and ship the internal tools that make teams move fas
 
 | Project | What it does |
 |---------|-------------|
+| [public-surgical-data](https://github.com/chrisgeaton/public-surgical-data) | Federal surgical data pipeline — ETL framework aggregating CMS, AHRQ, and VA data into a unified schema; 1.3M+ records, 10 collectors, VA hospital complexity tagging (Python / PostgreSQL / SQLAlchemy) |
 | [strategylive](https://github.com/chrisgeaton/strategylive) | Real-time AI sales coach for Google Meet — captures mic + tab audio, transcribes locally via Whisper, delivers live coaching suggestions through a browser extension overlay (Python / Whisper / Claude / Chrome Extension) |
 | [DailyStrategy](https://github.com/chrisgeaton/DailyStrategy) | AI-powered competitive intelligence briefing tool with MCP server backend, deployed on Vercel (TypeScript / Next.js / Python / MCP) |
 | [competitive-intel-v2](https://github.com/chrisgeaton/competitive-intel-v2) | Competitive intelligence platform — RSS monitoring, GPT-4 analysis, automated email delivery (Python / FastAPI / PostgreSQL) |
